@@ -13,5 +13,6 @@ public class HelloGit {
         System.out.println("在线更新");
         System.out.println("线下haha");
         System.out.println("线上haha");
+        System.out.println("你好");
     }
 }
